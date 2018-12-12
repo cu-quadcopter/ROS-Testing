@@ -1,0 +1,3 @@
+[submodule "src/ros_testing_pkg/scripts/ROS-Tools"]
+	path = src/ros_testing_pkg/scripts/ROS-Tools
+	url = https://github.com/cu-quadcopter/ROS-Tools.git
